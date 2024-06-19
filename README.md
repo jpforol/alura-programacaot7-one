@@ -6,8 +6,10 @@ Este repositório contém os arquivos da sequência de aulas da Formação Inici
 
 ### Arquivos do Repositório
 
-* 01-projeto-inicial: Número Secreto - JavasScript, lógica de programação e exemplos
-* 02-desafio-projeto-inicial: JavaScript, lógica de programação e exercícios
+* 01-projeto-inicial: Número Secreto - O objetivo do jogo é descobrir o número secreto gerado aleatoriamente entre 1 e 10.
+* 02-desafio-pratico: Praticar a lógica de programação, incluindo conceitos como variáveis, condicionais (if), alert e prompt.
+* 03-desafio-pratico: Praticar a lógica de programação, incluindo conceitos como variáveis, condicionais (if), alert e prompt.
+* 04-desafio-pratico: Praticar a programação com exercícios que testam habilidades em loops (while) e contadores.
 
 ## Créditos
 
