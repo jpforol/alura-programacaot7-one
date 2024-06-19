@@ -6,7 +6,7 @@ Este repositório contém os arquivos da sequência de aulas da Formação Inici
 
 ### Arquivos do Repositório
 
-* 01-projeto-inicial: JavasScript, lógica de programação e exemplos
+* 01-projeto-inicial: Número Secreto - JavasScript, lógica de programação e exemplos
 * 02-desafio-projeto-inicial: JavaScript, lógica de programação e exercícios
 
 ## Créditos
