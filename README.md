@@ -11,6 +11,8 @@ Este repositório contém os arquivos da sequência de aulas da Formação Inici
 * 03-desafio-pratico: Praticar a lógica de programação, incluindo conceitos como variáveis, condicionais (if), alert e prompt.
 * 04-desafio-pratico: Praticar a programação com exercícios que testam habilidades em loops (while) e contadores.
 * 05-desafio-pratico: Realizar exercícios em JavaScript para reforçar o conhecimento em programação e desenvolver habilidades.
+* 06-desafio-pratico: Realizar exercícios em JavaScript para reforçar o conhecimento em programação de Funções e Lista
+* 07-desafio-pratico: Realizar exercícios em JavaScript para reforçar o conhecimento em programação de Funções e Lista
 
 ## Créditos
 
